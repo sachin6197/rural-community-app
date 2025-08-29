@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+  nav a {
+    margin: 5px 0;
+  }
+}

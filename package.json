@@ -1,0 +1,12 @@
+{
+  "name": "rural-community-app",
+  "version": "1.0.0",
+  "description": "1. Clone the repo\r 2. Run `npm install`\r 3. Set API URL in `.env`\r 4. Run `npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
